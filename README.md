@@ -1,4 +1,6 @@
-### Hi there 👋
+I'm currently working with the DNC to help elect Democrats in 2020 and beyond.
+
+My personal projects can be found at https://lizadaly.com/
 
 <!--
 **lizadaly/lizadaly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
